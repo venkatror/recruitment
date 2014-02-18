@@ -38,7 +38,7 @@ production:
   database: hrportal_production
   pool: 5
   username: root
-  password: venkat535
+  password: 
 
   
 
